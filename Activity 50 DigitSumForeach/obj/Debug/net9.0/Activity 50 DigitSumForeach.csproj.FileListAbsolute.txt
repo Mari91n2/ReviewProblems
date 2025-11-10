@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/bin/Debug/net9.0/Activity 50 DigitSumForeach
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/bin/Debug/net9.0/Activity 50 DigitSumForeach.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/bin/Debug/net9.0/Activity 50 DigitSumForeach.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/bin/Debug/net9.0/Activity 50 DigitSumForeach.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/bin/Debug/net9.0/Activity 50 DigitSumForeach.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/refint/Activity 50 DigitSumForeach.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/Activity 50 DigitSumForeach.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 50 DigitSumForeach/obj/Debug/net9.0/ref/Activity 50 DigitSumForeach.dll

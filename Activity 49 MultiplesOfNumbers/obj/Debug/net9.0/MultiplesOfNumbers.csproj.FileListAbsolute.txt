@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/bin/Debug/net9.0/MultiplesOfNumbers
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/bin/Debug/net9.0/MultiplesOfNumbers.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/bin/Debug/net9.0/MultiplesOfNumbers.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/bin/Debug/net9.0/MultiplesOfNumbers.dll
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/bin/Debug/net9.0/MultiplesOfNumbers.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.dll
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/refint/MultiplesOfNumbers.dll
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/MultiplesOfNumbers.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/MultiplesOfNumbers/obj/Debug/net9.0/ref/MultiplesOfNumbers.dll

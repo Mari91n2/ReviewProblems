@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/bin/Debug/net9.0/ReviewProblems
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/bin/Debug/net9.0/ReviewProblems.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/bin/Debug/net9.0/ReviewProblems.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/bin/Debug/net9.0/ReviewProblems.dll
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/bin/Debug/net9.0/ReviewProblems.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.dll
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/refint/ReviewProblems.dll
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ReviewProblems.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/ReviewProblems/obj/Debug/net9.0/ref/ReviewProblems.dll

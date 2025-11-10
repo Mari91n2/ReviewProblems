@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52  DecisionBasedOnBooleans
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/bin/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/refint/Activity 52  DecisionBasedOnBooleans.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/Activity 52  DecisionBasedOnBooleans.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 52  DecisionBasedOnBooleans/obj/Debug/net9.0/ref/Activity 52  DecisionBasedOnBooleans.dll

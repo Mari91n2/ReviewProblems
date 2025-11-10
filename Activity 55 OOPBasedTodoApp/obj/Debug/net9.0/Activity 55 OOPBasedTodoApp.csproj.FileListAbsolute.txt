@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/bin/Debug/net9.0/Activity 55 OOPBasedTodoApp
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/bin/Debug/net9.0/Activity 55 OOPBasedTodoApp.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/bin/Debug/net9.0/Activity 55 OOPBasedTodoApp.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/bin/Debug/net9.0/Activity 55 OOPBasedTodoApp.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/bin/Debug/net9.0/Activity 55 OOPBasedTodoApp.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/refint/Activity 55 OOPBasedTodoApp.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/Activity 55 OOPBasedTodoApp.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 55 OOPBasedTodoApp/obj/Debug/net9.0/ref/Activity 55 OOPBasedTodoApp.dll

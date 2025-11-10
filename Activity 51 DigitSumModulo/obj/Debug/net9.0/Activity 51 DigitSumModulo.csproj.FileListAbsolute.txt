@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/bin/Debug/net9.0/Activity 51 DigitSumModulo
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/bin/Debug/net9.0/Activity 51 DigitSumModulo.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/bin/Debug/net9.0/Activity 51 DigitSumModulo.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/bin/Debug/net9.0/Activity 51 DigitSumModulo.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/bin/Debug/net9.0/Activity 51 DigitSumModulo.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/refint/Activity 51 DigitSumModulo.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/Activity 51 DigitSumModulo.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 51 DigitSumModulo/obj/Debug/net9.0/ref/Activity 51 DigitSumModulo.dll

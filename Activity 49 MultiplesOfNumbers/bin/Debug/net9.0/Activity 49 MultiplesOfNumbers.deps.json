@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Activity 49 MultiplesOfNumbers/1.0.0": {
+        "runtime": {
+          "Activity 49 MultiplesOfNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity 49 MultiplesOfNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

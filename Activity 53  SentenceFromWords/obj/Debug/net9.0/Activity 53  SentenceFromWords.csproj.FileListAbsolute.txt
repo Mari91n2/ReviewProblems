@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/bin/Debug/net9.0/Activity 53  SentenceFromWords
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/bin/Debug/net9.0/Activity 53  SentenceFromWords.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/bin/Debug/net9.0/Activity 53  SentenceFromWords.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/bin/Debug/net9.0/Activity 53  SentenceFromWords.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/bin/Debug/net9.0/Activity 53  SentenceFromWords.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/refint/Activity 53  SentenceFromWords.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/Activity 53  SentenceFromWords.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 53  SentenceFromWords/obj/Debug/net9.0/ref/Activity 53  SentenceFromWords.dll

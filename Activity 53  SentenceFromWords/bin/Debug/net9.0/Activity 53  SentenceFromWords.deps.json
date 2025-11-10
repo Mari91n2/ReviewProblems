@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Activity 53  SentenceFromWords/1.0.0": {
+        "runtime": {
+          "Activity 53  SentenceFromWords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity 53  SentenceFromWords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

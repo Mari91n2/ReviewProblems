@@ -1,0 +1,14 @@
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/bin/Debug/net9.0/Activity 54 AdultCorpulenceIndex
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/bin/Debug/net9.0/Activity 54 AdultCorpulenceIndex.deps.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/bin/Debug/net9.0/Activity 54 AdultCorpulenceIndex.runtimeconfig.json
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/bin/Debug/net9.0/Activity 54 AdultCorpulenceIndex.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/bin/Debug/net9.0/Activity 54 AdultCorpulenceIndex.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.AssemblyInfoInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.AssemblyInfo.cs
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.csproj.CoreCompileInputs.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/refint/Activity 54 AdultCorpulenceIndex.dll
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.pdb
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/Activity 54 AdultCorpulenceIndex.genruntimeconfig.cache
+/Users/ceesay/RiderProjects/ReviewProblems/Activity 54 AdultCorpulenceIndex/obj/Debug/net9.0/ref/Activity 54 AdultCorpulenceIndex.dll
